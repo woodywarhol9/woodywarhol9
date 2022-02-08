@@ -1,4 +1,4 @@
-I'm interested in AI, Data
+Interested in AI, Data
 
 
 
