@@ -7,3 +7,4 @@ Interested in AI, Data
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQLw&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodywarhol9&show_icons=true&theme=dark)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{woodywarhol9})
