@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodywarhol9&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-woodywarhol9.vercel.app/api?username=woodywarhol9&show_icons=true&theme=dark)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=woodywarhol9)](https://solved.ac/woodywarhol9)
 
