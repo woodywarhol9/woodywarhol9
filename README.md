@@ -40,7 +40,7 @@
 <br>
 
 
-##### Recent blog posts
+<b>Recent blog posts</b>
 - [2023.03.21 Class와 Instance(Object) 알아보기 Feat. self, cls](https://only-wanna.tistory.com/entry/Class%EC%99%80-InstanceObject-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-Feat-self-cls) <br>
 - [2023.03.16 OOP(객체 지향 프로그래밍)의 개념과 특징 알아보기](https://only-wanna.tistory.com/entry/OOP%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%8A%B9%EC%A7%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br>
 - [2023.03.16 [Git] Configuration의 Scope 확인하기](https://only-wanna.tistory.com/entry/Git-Configuration%EC%9D%98-Scope-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) <br>

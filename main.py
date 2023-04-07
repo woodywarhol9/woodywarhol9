@@ -5,7 +5,7 @@ tistory_blog_uri = "https://only-wanna.tistory.com"  # Your blog address here
 feed = feedparser.parse(tistory_blog_uri+"/rss")
 
 markdown_text = """
-##### Recent blog posts
+<b>Recent blog posts</b>
 """
 
 lst = []
