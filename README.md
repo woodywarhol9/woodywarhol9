@@ -41,10 +41,10 @@
 
 
 <b>Recent blog posts</b>
+- [2023.04.11 Sampling(표본 추출) 방식 별 특징과 추출법 결정 시 고려 사항](https://only-wanna.tistory.com/entry/Sampling%ED%91%9C%EB%B3%B8-%EC%B6%94%EC%B6%9C-%EB%B0%A9%EC%8B%9D-%EB%B3%84-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%B6%94%EC%B6%9C%EB%B2%95-%EA%B2%B0%EC%A0%95-%EC%8B%9C-%EA%B3%A0%EB%A0%A4-%EC%82%AC%ED%95%AD) <br>
 - [2023.04.08 [OS] 운영체제의 자원 관리 기능 알아보기](https://only-wanna.tistory.com/entry/OS-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98-%EC%9E%90%EC%9B%90-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EB%8A%A5-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br>
 - [2023.03.21 Class와 Instance(Object) 알아보기 Feat. self, cls](https://only-wanna.tistory.com/entry/Class%EC%99%80-InstanceObject-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-Feat-self-cls) <br>
 - [2023.03.16 OOP(객체 지향 프로그래밍)의 개념과 특징 알아보기](https://only-wanna.tistory.com/entry/OOP%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%ED%8A%B9%EC%A7%95-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br>
-- [2023.03.16 [Git] Configuration의 Scope 확인하기](https://only-wanna.tistory.com/entry/Git-Configuration%EC%9D%98-Scope-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) <br>
 
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoodywarhol9%2Fwoodywarhol9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
