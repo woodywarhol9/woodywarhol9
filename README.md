@@ -43,8 +43,8 @@
 <b>Recent blog posts</b>
 - [2023.04.28 [Web] Web Server(웹 서버)와 CGI, Web Application Server(WAS, 앱 서버) 알아보기](https://only-wanna.tistory.com/entry/Web-Web-Server%EC%9B%B9-%EC%84%9C%EB%B2%84%EC%99%80-CGI-Web-Application-ServerWAS-%EC%95%B1-%EC%84%9C%EB%B2%84-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br>
 - [2023.04.26 [Web] Static pages(정적 페이지)와 Dynamic pages(동적 페이지) 알아보기](https://only-wanna.tistory.com/entry/Web-Static-pages%EC%A0%95%EC%A0%81-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80-Dynamic-pages%EB%8F%99%EC%A0%81-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br>
+- [2023.04.26 Regression Metrics(회귀 평가 지표) 알아보기 : MSLE, RMSLE, R^2, MAPE, sMAPE, MPE](https://only-wanna.tistory.com/entry/Regression-Metrics%ED%9A%8C%EA%B7%80-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-MSLE-RMSLE-R2-MAPE-sMAPE-MPE) <br>
 - [2023.04.23 [Seaborn] Figure 하나에 Graph 여러 개 그릴 때 Legend 표시하기](https://only-wanna.tistory.com/entry/Seaborn-Figure-%ED%95%98%EB%82%98%EC%97%90-Graph-%EC%97%AC%EB%9F%AC-%EA%B0%9C-%EA%B7%B8%EB%A6%B4-%EB%95%8C-Legend-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0) <br>
-- [2023.04.23 Regression Metrics(회귀 모델 평가 지표) 알아보기 : MAE, MSE, RMSE](https://only-wanna.tistory.com/entry/Regression-Metrics%ED%9A%8C%EA%B7%80-%EB%AA%A8%EB%8D%B8-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-MAE-MSE-RMSE) <br>
 
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoodywarhol9%2Fwoodywarhol9&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
